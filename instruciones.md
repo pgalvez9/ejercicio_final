@@ -22,4 +22,7 @@ haz un commit
 Añade una serie de netflix que me recomiendes
 yo te recomiendo "my name" (es coreana)
 
-Cuando termines muevete a la rama SCRUM
+
+Cuando termines haz un merge de master hacia acá de tal suerte
+que este archivo contendra la Parte 1 y 2
+muevete a la rama SCRUM
