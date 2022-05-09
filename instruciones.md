@@ -15,7 +15,7 @@ echo Parte4 *********************************************************
 4. Que has entendido por devops?
 
 5. Haz un rebase de la rama SCRUM a esta rama
-de tal suerte que tendras la parte 1 2 3 y 4 en este documento
+de tal suerte que tendras la parte 2 3 y 4 en este documento
 
 Cuando termines muevete a la rama Android
 
