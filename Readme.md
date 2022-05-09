@@ -1,6 +1,11 @@
-Hola!!
+# Hola!!
+
+Haz un Fork de este repositorio, después clonalo a tu local
+
+
 
 Parece que hay un error en el código de este branch, pero... antes funcionaba
+
 Antes de empezar teclea history -c
 
 Recuerdas que comando utilizar para encontrar el error?
