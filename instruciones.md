@@ -19,4 +19,6 @@ Contesta las siguientes preguntas
 
 
 Cuando termines haz un merge de personal info a este branch
-de tal suerte que este archivo debe contener la Parte 2 y 3 juntas 
+de tal suerte que este archivo debe contener la Parte 1 2 y 3 juntas 
+Muevete a la rama git_github
+
