@@ -1,4 +1,7 @@
 Parte 2
+Escribe en la terminal
+
+echo Parte2 ***************************************
 
 A través de la consola genera un archivo llamado
 @tu_nombre.md
