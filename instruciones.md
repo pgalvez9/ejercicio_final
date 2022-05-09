@@ -29,6 +29,8 @@ Escribe en consola
 history
 
 copiala y pegala en ese archivo
+Haz un git lol o un git graph decorate all graph ... etc tomale screenshot 
+y guardalo como jpg en el repositorio
 
 Haz un merge a master y un push a tu repositorio de github
 
