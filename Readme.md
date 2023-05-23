@@ -15,3 +15,4 @@ Utiliza el comando para encontrar el commit culpable y haz un revert para arregl
 
 Cuando termines haz un checkout a la rama personal_info
 
+sasdf
